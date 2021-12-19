@@ -1,0 +1,151 @@
+body{
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+
+html {
+    height: 100%;
+}
+
+
+
+
+.cabecera{
+    width: 900px;
+    height: 1400px;
+    position: relative;
+    justify-content: center;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: -25px;
+    margin-top: -25px;
+    background-color:rgb(0, 32, 10);
+    padding-top: 25px;
+}
+
+.cabecera2{
+    width: 900px;
+    height: 100px;
+    background-color:rgb(145, 188, 189);
+    padding-top: 30px;
+    margin-top: 10px;
+}
+
+#datos{
+    margin: auto;
+    display: grid;
+    list-style:none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color: black;
+    color: white;
+    width: 780px;
+    height: 80px;
+}
+
+
+#datos1{
+    padding: 5px;
+    padding-right: 67px;
+    border-color: rgb(197, 254, 255);
+    border-right:1px solid;
+    width: 80px;
+    height: 70px;
+}
+
+#datos2{
+    padding: 4px;
+    padding-right: 100px;
+    padding-left: -111px;
+    border-color: rgb(197, 254, 255);
+    border-right:1px solid;
+    width: 80px;
+    height: 70px;
+
+}
+
+#datos3{
+    padding: 4px;
+    padding-right: 54px;
+    border-color: rgb(197, 254, 255);
+    border-right:1px solid;
+    width: 80px;
+    height: 70px;
+    justify-content: center;
+}
+
+#datos4{
+    padding: 4px;
+}
+
+.cuerpo{
+    margin: auto;
+    display: flex;
+}
+
+.Texto{
+    color: white;
+    width: 400px;
+    padding-left: 50px;
+    margin-left: -20px;
+    margin-top: 100px;
+    margin-right: -370px;
+    margin-bottom: 21px;
+}
+
+.logo{
+    background-repeat:no-repeat ;
+    width: 1000px;
+    height: 650px;
+    margin-left: 450px;
+    margin-right: 40px;
+    margin-top: 60px;
+    background-image: url('Manual de estilo2.png');
+    position: relative;
+}
+
+.animacion{
+    margin-top: 0px;
+}
+
+.contactos{
+    color: white;
+    width: 400px;
+    margin-top: -200px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+.contactos2{
+    color: white;
+    width: 400px;
+    margin-top: 0px;
+    display: flex;
+}
+
+.contáctanos{
+    width: 150px;
+    margin-top: -6px;
+}
+
+h2{
+    width: 144px;
+
+}
+
+a{
+    color: white;
+ }
+
+ a :hover{
+    color: aquamarine;
+ }
+ 
+
+
+
+
+

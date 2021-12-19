@@ -1,0 +1,60 @@
+body{
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 50%;
+    justify-content: center;
+}
+
+.container{
+    background-image: url('Fondo para formulario.jpg');
+    position: absolute;
+    justify-content: center;
+    width: 761px;
+    height: 1200px;
+}
+
+img{
+    width: 518px;
+    height: 350px;
+    position: relative;
+    justify-content: center;
+    margin-right: 0px;
+    margin-left: 110px;
+    margin-top: 48px;
+    margin-bottom: 0px;
+
+}
+
+#formulario{
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: brown;
+    width: 615px;
+    height: 450px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+input{
+position: relative;
+justify-content: center;
+margin: 0 auto;
+margin-right: 0px;
+margin-left: 55px;
+margin-top: 5px;
+margin-bottom: 0px;
+width: 500px;
+height: 50px;
+}
+
+button{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2px;
+    padding: 5px;
+    color: white;
+}
